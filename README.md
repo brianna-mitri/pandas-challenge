@@ -27,6 +27,9 @@ The following 5 sheets are created in the exported Excel file to categorize and 
 - **Scores by Grade:** Math Scores by Grade and Reading Scores by Grade
 - **Scores by School Factors:** Scores by School Spending, Size, and Type dataframes
 
+Column width and placement of the dataframes and titles on each sheet are dynamic depending on the dataframes' sizes. Below is an example of the output from the last sheet, **"Scores by School Factors"**, which clearly shows all 3 dataframes and their values:
+![image-6](https://github.com/user-attachments/assets/68bce859-1e7b-46a8-aeaf-1ed271d61e70)
+
 ## Files
 In order for the dataframes to be created and exported, the files are expected to be in the following format:
 - **Output**[^1]
