@@ -39,6 +39,4 @@ In order for the dataframes to be created and exported, the files are expected t
     - **students_complete.csv**: data about students in the district
 - **PyCitySchools.ipynb**: where Python code is located and analysis (under "Findings")
 
-[^1]: Output folder and excel sheet don't need to be created before running. The Jupyter notebook should generate them both.
-
-
+[^1]: Output folder and Excel file don't need to be created before running. The Jupyter notebook should generate them both.
